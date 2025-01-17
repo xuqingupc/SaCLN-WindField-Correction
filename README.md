@@ -13,7 +13,7 @@ test.py: The loaded model is used to predict the test data, and the error betwee
 Install the required packages: tensorflow 1.15, numpy, glob, matplotlib packages.
 
 ## Data
-The wind fields are downloaded from the NCEP-GFS archive https://rda.ucar.edu/datasets/ and the ECMWF-ERA5 archive https://cds.climate.copernicus.eu/datasets.
+The wind fields are downloaded from the NCEP-GFS archive (https://tds.hycom.org/thredds/catalogs/GLBy0.08/expt_93.0.html) and the ECMWF-ERA5 archive (https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=download).
 
 ## Usage
 To run the project, follow these steps:
